@@ -60,7 +60,7 @@
     "react": "~0.13.x || ~0.14.x || ^15.0.0"
   },
   "devDependencies": {
-    "autoprefixer": "^6.5.3",
+    "autoprefixer": "^6.7.7",
     "babel-cli": "^6.18.0",
     "babel-core": "^6.18.2",
     "babel-eslint": "^7.1.1",
